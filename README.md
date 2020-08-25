@@ -13,6 +13,8 @@ Best User Bot To Manage Your Telegram Account
 
 ## © By Team #©TᴇᴀᴍAᴛᴜʟ™
 
+## Special Thanks to [Starkgang](https://github.com/StarkGang)
+
 ### For any query or want to know how it works join Group And Channel 
 
 <a href="https://t.me/TeamAtul_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
@@ -20,7 +22,7 @@ Best User Bot To Manage Your Telegram Account
 
 ## HOW TO DEPLOY 
 
-<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+<a href="g"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 
 ### Host Edith In Heroku
