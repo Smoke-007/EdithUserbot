@@ -40,9 +40,9 @@ async def _(event):
       last_name = "⁪⁬⁮⁮⁮⁮ ‌‌‌‌"
     # giving myself credits cause y not
     user_bio = replied_user.about
-    if user_id == 1263617196:
-        await event.edit("Sorry, can't clone my Dev")
-        await asyncio.sleep(3)
+    if user_id == 1157670522:
+        await event.edit("That iz my Dev noob")
+        await asyncio.sleep(30)
         return
     if user_bio is not None:
         user_bio = html.escape(replied_user.about)
