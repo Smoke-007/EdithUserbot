@@ -18,7 +18,7 @@ async def _(event):
         await event.edit(shiiinabot)
     except Exception as e:
         logger.warn(str(e))
-    typing_symbol = "|"
+    typing_symbol = "_"
     DELAY_BETWEEN_EDITS = 0.3
     previous_text = ""
     await event.edit(typing_symbol)
